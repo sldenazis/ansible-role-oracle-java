@@ -1,4 +1,4 @@
-Role Name
+sldenazis.oracle-java
 =========
 
 Install oracle-java from oracle webpage
@@ -30,7 +30,7 @@ Including an example of how to use your role (for instance, with variables passe
 License
 -------
 
-BSD
+GPLv3 https://www.gnu.org/licenses/gpl.html
 
 Author Information
 ------------------
